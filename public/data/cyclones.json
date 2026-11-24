@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2019116N02090",
+    "name": "FANI",
+    "season": 2019,
+    "startTime": "2019-04-25 18:00:00",
+    "endTime": "2019-05-04 12:00:00",
+    "startLat": 1.9,
+    "startLon": 90.2,
+    "maxWindKt": 115.0,
+    "minPressureMb": 932.0,
+    "trackType": "main"
+  }
+]
